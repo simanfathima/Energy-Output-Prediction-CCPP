@@ -31,3 +31,11 @@
 3. Model Selection.
     
 # Conclusion
+
+1. Multiple Linear Regression - .
+2. Polynomial Regression   - .
+3. Support Vector Regression - 94.8% accuracy.
+4. Decision Tree Regression  - .
+5. Random Forest Regression  - .
+
+The Best Model to predict the Energy Output is
