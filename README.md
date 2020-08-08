@@ -7,11 +7,11 @@
 -The dataset is obtained from the UCI Machine Learning Repository. 
 
 -The dataset contains five columns, namely,
-  1.Ambient Temperature (AT)
-  2.Ambient Pressure (AP)
-  3.Relative Humidity (RH)
-  4.Exhaust Vacuum (EV)
-  5.Net hourly electrical energy output (PE) of the plant. 
+  -  Ambient Temperature (AT).
+  -  Ambient Pressure (AP).
+  -  Relative Humidity (RH).
+  -  Exhaust Vacuum (EV).
+  -  Net hourly electrical energy output (PE) of the plant. 
   
 -**Dependent variable**:
   PE
