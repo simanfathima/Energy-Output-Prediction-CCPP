@@ -38,4 +38,4 @@
 4. Decision Tree Regression  - 92.2 accuracy.
 5. Random Forest Regression  - 96.1% accuracy.
 
-The Best Model to predict the Energy Output is therefore Random Forest Regression Model with 96.1% accuracy.
+The Best Model to predict the Energy Output is therefore **Random Forest Regression Model with 96.1% accuracy**.
