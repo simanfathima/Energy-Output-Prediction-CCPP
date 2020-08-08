@@ -28,5 +28,6 @@
     - c.  Training **Multiple Linear,Polynomial,Support Vector,Decision Tree,Random Forest** regression models on the training set.
     - d.  Predicting the test results. 
     - e.	Model Evaluations on the Test data using the metrics R^2_Score.
+3. Model Selection.
     
 # Conclusion
