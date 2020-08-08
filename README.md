@@ -16,9 +16,6 @@
 -**Dependent variable**:
   PE
   
--**Independent Variables**:
-  AT,AP,RH,EV
-
 # Workflow:
 
 1. Data Preprocessing.
