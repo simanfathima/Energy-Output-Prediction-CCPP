@@ -32,7 +32,7 @@
     
 # Conclusion
 
-1. Multiple Linear Regression - .
+1. Multiple Linear Regression - 93.2% accuracy.
 2. Polynomial Regression   - .
 3. Support Vector Regression - 94.8% accuracy.
 4. Decision Tree Regression  - .
