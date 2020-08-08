@@ -13,10 +13,10 @@
   4.Exhaust Vacuum (EV)
   5.Net hourly electrical energy output (PE) of the plant. 
   
--Dependent variable:
+-**Dependent variable**:
   PE
   
--Independent Variables:
+-**Independent Variables**:
   AT,AP,RH,EV
 
 # Workflow:
